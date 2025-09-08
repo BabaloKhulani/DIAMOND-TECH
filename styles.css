@@ -1,0 +1,13 @@
+
+.btn-primary {
+  background-color:black !important;
+  border-color: white!important;  /
+  padding: 12px 24px;                
+  border-radius: 10px;                
+}
+
+.about-section {
+    margin-top: 20px;
+  background-color: rgba(205, 214, 226, 0.11);
+  color: black;
+}
